@@ -22,5 +22,9 @@ public class Dependency
 	{
 		Reporter.log("hi2");
 	}
+	public void test4()
+	{
+		
+	}
 
 }
